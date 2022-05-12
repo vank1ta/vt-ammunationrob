@@ -1,4 +1,4 @@
-# vt-ammunationrob
-Ammunation Robbery For QB-Core 
+# vt-ammunitionrob
+Ammunition robbery For QB-Core 
 
 Comming Soon
